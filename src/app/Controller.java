@@ -47,7 +47,7 @@ public class Controller {
         calculateAreaOfTriangle(base, height);
         calculateAreaOfRectangle(height, width);
 
-        System.out.printf("Triangle info-> \t\tbase: \t%.3f height: \t%.5f area: %.2f%n", base, height, areaOfTriangle);
+        System.out.printf("Triangle info-> \t\tbase: \t%.3f  height: %.5f area: %.2f%n", base, height, areaOfTriangle);
         System.out.printf("Rectangle info-> \t\theight: %.4f width: \t%.1f \t area: %.5f%n", height, width, areaOfRectangle);
 
         //----------------------------------------------------------------
