@@ -1,5 +1,6 @@
 package app;
 
+@SuppressWarnings("ALL")
 public class Controller {
 
     //-------------------------------------------------------------------
@@ -87,7 +88,7 @@ public class Controller {
         System.out.println("CLASS \t\t COP2210 ");
         System.out.println("SECTION: \t " + "U02C");
         System.out.println("SEMESTER: \t " + "Summer 2023");
-        System.out.println("CLASSTIME: \t " + "10:00 AM - 12:50 PM");
+        System.out.println("CLASS TIME: \t " + "10:00 AM - 12:50 PM");
         System.out.println();
         System.out.println("Assignment:  " + "Lab 3");
         System.out.println();

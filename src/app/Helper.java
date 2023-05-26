@@ -6,7 +6,7 @@ public class Helper {
     //Part 2 Step 3
     public static void displayInfo(){
         System.out.println("=============================");
-        System.out.println("DISPLAYINFO FROM HELPER CLASS");
+        System.out.println("DISPLAY INFO FROM HELPER CLASS");
         System.out.println("=============================");
 
     }//end displayInfo
