@@ -17,7 +17,7 @@ public class Helper {
         Controller.calculateAreaOfRectangle(14.2, 20.7);
         Controller.calculateAreaOfTriangle(33.2, 16.2);
 
-        double value1 = circleMultiplier * Controller.calculateAreaOfCircle(10.6);
+        double value1 = circleMultiplier * Controller.calculateAreaOfCircle(10.7);
         double value2 = rectangleMultiplier * Controller.getAreaOfRectangle();
         double value3 = triangleMultiplier * Controller.getAreaOfTriangle();
 

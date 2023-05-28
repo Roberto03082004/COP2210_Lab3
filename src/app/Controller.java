@@ -63,6 +63,8 @@ public class Controller {
         System.out.println();
 
 
+
+
         calculateAreaOfTriangle(21.5, 10.3);
         calculateAreaOfRectangle(9.4, 17.2);
         double triangleArea = areaOfTriangle;
